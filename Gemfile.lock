@@ -119,7 +119,7 @@ DEPENDENCIES
   gdata
   hoptoad_notifier
   mongrel
-  mysql
+  pg
   rails (~> 2.3.14)
   rgl
   ruby-debug
