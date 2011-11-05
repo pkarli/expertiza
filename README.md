@@ -1,4 +1,4 @@
-Project 2: E201 - Break_up Assignment.rb
+ Project 2: E201 - Break_up Assignment.rb
 Team members
 
 Ashwini Bangalore NarasimhaMurthy, UnityID: abangal3
