@@ -5,12 +5,12 @@ gem 'expertiza-authlogic', '~> 2.1.6.1', :require => 'authlogic'
 gem 'fastercsv'
 gem 'gdata', :require => false
 gem 'hoptoad_notifier'
-gem 'mysql'
+#gem 'mysql'
 gem 'rails', '~> 2.3.14'
 gem 'RedCloth'
 gem 'rgl', :require => 'rgl/adjacency'
 gem 'rubyzip', :require => 'zip/zip'
-gem 'pg' :group=>:production
+gem 'pg', :group=>:production
 group :development do
   gem 'mongrel'
   gem 'ruby-debug'
